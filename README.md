@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
+```bash
 // https://turbo.build/repo/docs/getting-started/add-to-project
 
 turbo build lint
@@ -12,7 +13,7 @@ turbo build lint
 turbo dev
 
 
-```bash
+
 npm run dev
 # or
 yarn dev
